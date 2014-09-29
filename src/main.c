@@ -3,5 +3,6 @@
 
 int main(){
 printf("Application Started...\n");
+initWebcore();
 return 0;
 }
