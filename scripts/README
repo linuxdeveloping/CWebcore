@@ -2,5 +2,5 @@ ALL SCRIPTS NEED TO BE EXECUTED AS ROOT
 
 The install.sh creates directories in /etc/
 
-the uninstall.sh rmeoves the directories in /etc/
+the uninstall.sh rmeoves the directories from /etc/
 

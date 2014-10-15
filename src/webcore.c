@@ -30,6 +30,6 @@ int initWebcore(){
 }
 
 int registerApplication(int (*function)(HTTPRequest) ){
-	printf("Got a registration");
+	printf("Got a registration\n");
 	return 0;
 }
